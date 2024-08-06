@@ -1,5 +1,5 @@
 # MonitorHardwarePython
-Monitor computer components and saves logs if the limit designated in the settings is exceeded
+The application monitors computer components and saves logs if the limit designated in the settings is exceeded
 
 Main
 
